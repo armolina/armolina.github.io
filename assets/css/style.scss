@@ -1,7 +1,8 @@
 ---
----
 
+---
 @import "jekyll-theme-minimal";
+@import url("http://fonts.googleapis.com/css?family=Roboto:500,300");
 
 section {
     max-width: 700px; 
@@ -11,6 +12,10 @@ section {
 
 header a {
     color:#303033;
+}
+
+body {
+    font-family: "Roboto", Helvetica, sans-serif;
 }
 
 .wrapper { 
