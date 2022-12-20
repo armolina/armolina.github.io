@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "PYconES 2022"
+title:  "gRPC, una alternativa eficiente para conectar nuestros servicios"
 date:   2022-10-02 19:04:37 +0200
-categories: conferencias
-tags: conferencias
+categories: coding
+tags: coding
 author: Ramón Molina
 ---
 El fin de semana del 30/09/2022 al 02/10/2022 he asistido a la PYconES 2022 en Granada.
