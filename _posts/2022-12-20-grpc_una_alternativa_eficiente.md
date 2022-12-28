@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "PYconES 2022"
+title:  "gRPC una alternativa eficiente"
 date:   2022-12-20 19:00:21 +0200
-categories: conferencias
-tags: conferencias
+categories: coding
+tags: coding
 author: Ramón Molina
 ---
 Nueva charla sobre Python y GRPC junto a [@JavierMarAlc](https://twitter.com/JavierMarAlc) dónde hacemos una breve introducción a la interconexión de microservicios. 
