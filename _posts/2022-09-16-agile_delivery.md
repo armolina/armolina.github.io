@@ -17,6 +17,6 @@ Con esta premisa monté mi primera charla en @Codurance para explicar en que cos
 lo mejor posible dentro de sus equipos.
 
 <!--more-->
-{% include youtube.html id='6Qik1x49dTg' %}
+{% include youtube.html id='AW1ks0AZ5hw' %}
 
 Cualquier feedback es siempre bienvenido.

@@ -17,7 +17,7 @@ En la parte del ejercicio usamos el código alojado en este repositorio:
 [repo](https://github.com/armolina/mtgadmin)
 
 <!--more-->
-{% include youtube.html id='zG2qmfRb4gI' %}
+{% include youtube.html id='QfwW4ZCcXLk' %}
 
 Cualquier feedback es siempre bienvenido.
 
