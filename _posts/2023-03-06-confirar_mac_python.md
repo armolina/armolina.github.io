@@ -72,4 +72,13 @@ eval "$(pyenv init --path)"
 ## Instalando VSCode
 https://code.visualstudio.com/docs/setup/mac
 
+### Personalizando VSCode
+Fuente para el editor de código
+- Victor Mono (link) https://rubjo.github.io/victor-mono/
+- Activar las ligatures
+"editor.fontLigatures": true
+
+Fuente para la terminal
+- meslolgs nf
+
 
