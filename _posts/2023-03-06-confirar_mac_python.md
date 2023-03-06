@@ -40,6 +40,14 @@ Para cambiar el tema a agnoster modificar la siguiente línea
 ZSH_THEME="robbyrussel"
 ZSH_THEME="agnoster"
 ```
+Instalar las fuentes necesarias
+```
+git clone https://github.com/powerline/fonts
+cd fonts && ./install.sh
+```
+
+![image](https://user-images.githubusercontent.com/796634/223115878-5174957d-ef46-4b42-bc5f-ddc1b6650b9a.png)
+
 
 ## Instalando python con pyenv
 https://github.com/pyenv/pyenv
