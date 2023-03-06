@@ -6,6 +6,39 @@ categories: coding
 tags: guía
 author: Ramón Molina
 ---
-En este live coding vemos un ejemplo de arquitectura para extraer data desde diferentes orígenes de datos con python.
 
-{% include youtube.html id='bXE87e2ZtnY' %}
+Changelog
+
+| Fecha  |   |
+|---|---|
+| 03/06/2023 | versión inicial |
+
+
+## Instalación de Homebrew
+http://brew.sh
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+```
+brew update
+```
+
+## Instalando python con pyenv
+https://github.com/pyenv/pyenv
+
+Nos permitirá tener varias versiones de python instaladas y cambiar a cada una de ellas según la necesidad.
+
+```
+brew install pyenv
+pyenv install --list
+pyenv install 3.11.2
+pyenv global 3.11.2
+
+```
+
+## Instalando VSCode
+https://code.visualstudio.com/docs/setup/mac
+
+
