@@ -25,6 +25,22 @@ http://brew.sh
 brew update
 ```
 
+## Instalación de ohmyzsh
+Instalacióln de iterm2
+```
+brew install iterm2
+```
+Desde iterm instalamos zsh para que quede accesible para iterm
+```
+brew install zsh
+```
+
+Para cambiar el tema a agnoster modificar la siguiente línea
+```
+ZSH_THEME="robbyrussel"
+ZSH_THEME="agnoster"
+```
+
 ## Instalando python con pyenv
 https://github.com/pyenv/pyenv
 
@@ -35,7 +51,14 @@ brew install pyenv
 pyenv install --list
 pyenv install 3.11.2
 pyenv global 3.11.2
-
+```
+Para que siempre tengamos la versión correcta activa en nuestra terminal
+```
+vim ˜/.zshrc
+```
+```
+#evaluate pyenv python version
+eval "$(pyenv init --path)"
 ```
 
 ## Instalando VSCode
