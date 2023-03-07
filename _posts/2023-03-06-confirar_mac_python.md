@@ -15,7 +15,7 @@ Changelog
 
 
 ## Instalación de Homebrew
-http://brew.sh
+[http://brew.sh](http://brew.sh)
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -50,7 +50,7 @@ cd fonts && ./install.sh
 
 
 ## Instalando python con pyenv
-https://github.com/pyenv/pyenv
+[https://github.com/pyenv/pyenv](https://github.com/pyenv/pyenv)
 
 Nos permitirá tener varias versiones de python instaladas y cambiar a cada una de ellas según la necesidad.
 
@@ -79,6 +79,6 @@ Fuente para el editor de código
 "editor.fontLigatures": true
 
 Fuente para la terminal
-- meslolgs nf
+- meslolgs nf (instalada junto con las powerlines fonts)
 
 
