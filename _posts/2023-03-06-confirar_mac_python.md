@@ -24,6 +24,13 @@ Changelog
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+Si estamos usando un mac con procesador M1 o M2 necesitamos añadir BREW al path
+```
+touch ~/.zshrc
+export PATH=/opt/homebrew/bin:$PATH
+source ~/.zshrc
+```
+
 ```
 brew update
 ```
