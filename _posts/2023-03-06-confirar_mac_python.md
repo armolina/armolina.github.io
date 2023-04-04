@@ -60,8 +60,17 @@ Instalar las fuentes necesarias
 git clone https://github.com/powerline/fonts
 cd fonts && ./install.sh
 ```
+Elegir la fuente: Source Code Pro for Powerline
 
 ![image](https://user-images.githubusercontent.com/796634/223115878-5174957d-ef46-4b42-bc5f-ddc1b6650b9a.png)
+
+Para añadir más temas al iterm2 descargar el siguiente fichero
+
+[Iterm2 color schemas](https://github.com/mbadolato/iTerm2-Color-Schemes/zipball/master)
+
+Desde la pestaña de Colors importar los ficheros en schemas/*.itermcolors
+
+En mi caso me gusta el argonaut
 
 
 ## Instalando python con pyenv
