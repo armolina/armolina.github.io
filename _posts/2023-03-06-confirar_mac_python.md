@@ -15,7 +15,7 @@ Changelog
 | 04/04/2023 | verificado con M2 y gestor de ventanas | 
 
 ## Instalar gestor de ventanas
-[https://rectangleapp.com/](Rectangle versión gratuita)
+[Rectangle free version](https://rectangleapp.com/)
 
 ## Instalación de Homebrew
 [http://brew.sh](http://brew.sh)
