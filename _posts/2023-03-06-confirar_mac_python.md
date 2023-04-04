@@ -12,7 +12,10 @@ Changelog
 | Fecha  |   |
 |---|---|
 | 03/06/2023 | versión inicial |
+| 04/04/2023 | verificado con M2 y gestor de ventanas | 
 
+## Instalar gestor de ventanas
+[https://rectangleapp.com/](Rectangle versión gratuita)
 
 ## Instalación de Homebrew
 [http://brew.sh](http://brew.sh)
