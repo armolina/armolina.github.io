@@ -45,6 +45,11 @@ Desde iterm instalamos zsh para que quede accesible para iterm
 brew install zsh
 ```
 
+Instalación de Oh My ZSH:
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 Para cambiar el tema a agnoster modificar la siguiente línea
 ```
 ZSH_THEME="robbyrussel"
