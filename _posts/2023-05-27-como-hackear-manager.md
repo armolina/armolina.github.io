@@ -7,4 +7,7 @@ tags: em
 author: Ramón Molina
 ---
 
+[presentación](/assets/pdf/NetcoreConf.pdf)
 
+# Descripción
+En construcción.
