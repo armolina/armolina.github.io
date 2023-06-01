@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Engineering Manager - aporta o aparta"
-date:   2022-02-02
+date:   2023-06-01
 categories: podcasts
 tags: podcasts
 author: Ramón Molina
