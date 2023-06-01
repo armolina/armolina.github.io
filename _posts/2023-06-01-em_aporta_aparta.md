@@ -9,9 +9,9 @@ author: Ramón Molina
 {% include ivoox.html id='109243515' %}
 
 ## Escuchar en otras plataformas
-[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL2ZlZWRfZmdfZjExMTE3OTMxX2ZpbHRyb18xLnhtbA/episode/aHR0cHM6Ly93d3cuaXZvb3guY29tLzEwOTI0MzUxNQ?sa=X&ved=0CAUQkfYCahcKEwjQ__yD76H_AhUAAAAAHQAAAAAQRA&hl=es)
-[Apple Podcast](https://podcasts.apple.com/es/podcast/commitea/id1690331589?i=1000615120940)
-[Spotify Podcast](https://open.spotify.com/episode/7o7bXPJwJLLl5wm9QHnkFp?si=a666326cf77d4425)
+- [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL2ZlZWRfZmdfZjExMTE3OTMxX2ZpbHRyb18xLnhtbA/episode/aHR0cHM6Ly93d3cuaXZvb3guY29tLzEwOTI0MzUxNQ?sa=X&ved=0CAUQkfYCahcKEwjQ__yD76H_AhUAAAAAHQAAAAAQRA&hl=es)
+- [Apple Podcast](https://podcasts.apple.com/es/podcast/commitea/id1690331589?i=1000615120940)
+- [Spotify Podcast](https://open.spotify.com/episode/7o7bXPJwJLLl5wm9QHnkFp?si=a666326cf77d4425)
 
 
 ---
