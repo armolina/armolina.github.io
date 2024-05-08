@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Y ahora qué"
-date:   2023-12-14
+title:  "Y qué viene después?"
+date:   2024-05-09
 categories: conferencias
-tags: charlas
+tags: meetups
 author: Ramón Molina
 ---
 Archivos usados durante la charla:
