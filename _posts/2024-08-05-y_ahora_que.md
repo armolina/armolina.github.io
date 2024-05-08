@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Y qué viene después?"
-date:   2025-05-08
+date:   2024-08-05
 categories: conferencias
 tags: meetups
 author: Ramón Molina
